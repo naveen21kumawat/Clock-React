@@ -1,0 +1,12 @@
+.clock{
+    margin: auto;
+    border: 2px solid palegreen;
+    padding: 25px;
+    width: 25vw;
+    color: blue;
+    font-weight: bolder;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 40  vh;
+    background-color: rgb(164, 194, 184);
+}
